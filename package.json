@@ -1,0 +1,17 @@
+{
+    "name": "teste-karlla",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node server.mjs"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "install": "^0.13.0",
+        "json-server": "^0.17.1",
+        "node": "^19.2.0"
+    }
+}
